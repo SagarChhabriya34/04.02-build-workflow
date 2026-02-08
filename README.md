@@ -1,4 +1,4 @@
-# 04.02-build-workflow: MEDIUM — “Does my application code work?”
+# 04.02-build-workflow: Does my application code work?
 
 ### Goal
 
